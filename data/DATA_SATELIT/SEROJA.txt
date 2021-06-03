@@ -1,0 +1,71 @@
+IDW27600
+TROPICAL CYCLONE TECHNICAL BULLETIN: AUSTRALIA - WESTERN REGION
+Issued by AUSTRALIAN BUREAU OF METEOROLOGY TROPICAL CYCLONE WARNING CENTRE
+at: 0129 UTC 09/04/2021
+Name: Tropical Cyclone Seroja
+Identifier: 22U
+Data At: 0000 UTC
+Latitude: 19.0S
+Longitude: 110.0E
+Location Accuracy: within 25 nm [45 km]
+Movement Towards: southwest [223 deg]
+Speed of Movement: 10 knots [18 km/h]
+Maximum 10-Minute Wind: 40 knots [75 km/h]
+Maximum 3-Second Wind Gust: 55 knots [100 km/h]
+Central Pressure: 993 hPa
+Radius of 34-knot winds NE quadrant: 80 nm [150 km]
+Radius of 34-knot winds SE quadrant: 80 nm [150 km]
+Radius of 34-knot winds SW quadrant: 60 nm [110 km]
+Radius of 34-knot winds NW quadrant: 30 nm [55 km]
+Radius of 48-knot winds NE quadrant:    
+Radius of 48-knot winds SE quadrant:    
+Radius of 48-knot winds SW quadrant:    
+Radius of 48-knot winds NW quadrant:    
+Radius of 64-knot winds: 
+Radius of Maximum Winds: 30 nm [55 km]
+Dvorak Intensity Code: T3.0/3.0/S0.0/24HRS STT:D0.5/06HRS
+Pressure of outermost isobar: 1004 hPa
+Radius of outermost closed isobar: 200 nm [370 km]
+FORECAST DATA
+Date/Time    : Location    : Loc. Accuracy: Max Wind   : Central Pressure
+[UTC]        : degrees     :      nm  [km]: knots[km/h]: hPa
++06:  09/0600: 19.5S 109.4E:     045 [080]:  040  [075]:  992
++12:  09/1200: 19.8S 108.9E:     055 [100]:  045  [085]:  988
++18:  09/1800: 20.1S 108.4E:     060 [115]:  050  [095]:  985
++24:  10/0000: 20.4S 108.1E:     070 [130]:  055  [100]:  980
++36:  10/1200: 21.3S 108.5E:     080 [145]:  065  [120]:  972
++48:  11/0000: 23.4S 109.9E:     095 [180]:  065  [120]:  974
++60:  11/1200: 26.3S 112.6E:     135 [255]:  055  [100]:  981
++72:  12/0000: 29.9S 117.3E:     175 [325]:  045  [085]:  990
++96:  13/0000:             :              :            :     
++120: 14/0000:             :              :            :     
+REMARKS:
+After a period of weakening on Thursday, Seroja has commenced intensifying in
+the past few hours with deep convection on both microwave [SSMIS at 2240UTC] and
+visible imagery in bands north and south of the centre.
+
+Dvorak analysis: FT/CI=3.0 based on MET. Technically DT=2.5 based on 0.4 curved
+band pattern, but this does not reflect that there are multiple bands that is
+heralding an emerging stronger system. ADT estimates are in the range of 2.4
+[NESDIS] to 2.8 [CIMSS] and SATCON [18UTC] at 44 kn. Earlier ASCAT passes
+[13-15UTC] had 35-40kn in eastern quadrants. Intensity set at 40kn.
+
+Intensification should continue today and tomorrow as the shear [CIMSS 18UTC: E
+at 12kn] eases and warm sea surface temperatures. There is the potential for
+Seroja to reach category 3 intensity over the weekend with a poleward outflow
+channel expected to develop due to an approaching upper trough to the west of
+the system. The intensification process of Seroja may be complicated or enhanced
+by the close proximity of TC Odette on Saturday.
+
+Tropical cyclone Seroja is forecast to track towards the southwest over open
+waters today under the influence of a mid-level high situated to the east of the
+system and then take a slow southerly track on Saturday. On Sunday, Seroja is
+expected to turn to the southeast due to an approaching mid-latitude trough from
+the west and accelerate towards the west coast of Western Australia before
+making landfall during late Sunday or early Monday between Carnarvon and Jurien
+Bay, an area not accustomed to tropical cyclones making impacts more
+significant.
+
+Copyright Commonwealth of Australia
+==
+The next bulletin for this system will be issued by: 09/0730 UTC.

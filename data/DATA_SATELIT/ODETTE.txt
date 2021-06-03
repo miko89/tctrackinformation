@@ -1,0 +1,70 @@
+IDW27700
+TROPICAL CYCLONE TECHNICAL BULLETIN: AUSTRALIA - WESTERN REGION
+Issued by AUSTRALIAN BUREAU OF METEOROLOGY TROPICAL CYCLONE WARNING CENTRE
+at: 0116 UTC 09/04/2021
+Name: Tropical Cyclone Odette
+Identifier: 23U
+Data At: 0000 UTC
+Latitude: 14.2S
+Longitude: 107.7E
+Location Accuracy: within 20 nm [35 km]
+Movement Towards: east northeast [068 deg]
+Speed of Movement: 11 knots [20 km/h]
+Maximum 10-Minute Wind: 45 knots [85 km/h]
+Maximum 3-Second Wind Gust: 65 knots [120 km/h]
+Central Pressure: 990 hPa
+Radius of 34-knot winds NE quadrant: 70 nm [130 km]
+Radius of 34-knot winds SE quadrant:    
+Radius of 34-knot winds SW quadrant: 70 nm [130 km]
+Radius of 34-knot winds NW quadrant: 80 nm [150 km]
+Radius of 48-knot winds NE quadrant:    
+Radius of 48-knot winds SE quadrant:    
+Radius of 48-knot winds SW quadrant:    
+Radius of 48-knot winds NW quadrant:    
+Radius of 64-knot winds: 
+Radius of Maximum Winds: 30 nm [55 km]
+Dvorak Intensity Code: T3.0/3.0/D0.5/24HRS STT:S0.0/06HRS
+Pressure of outermost isobar: 1000 hPa
+Radius of outermost closed isobar: 90 nm [165 km]
+FORECAST DATA
+Date/Time    : Location    : Loc. Accuracy: Max Wind   : Central Pressure
+[UTC]        : degrees     :      nm  [km]: knots[km/h]: hPa
++06:  09/0600: 14.7S 109.2E:     040 [075]:  045  [085]:  988
++12:  09/1200: 15.7S 110.7E:     055 [100]:  045  [085]:  989
++18:  09/1800: 17.1S 111.9E:     070 [130]:  045  [085]:  989
++24:  10/0000: 18.7S 112.4E:     090 [165]:  040  [075]:  991
++36:  10/1200: 22.3S 111.1E:     110 [205]:  040  [075]:  990
++48:  11/0000: 25.1S 109.9E:     120 [220]:  035  [065]:  991
++60:  11/1200:             :              :            :     
++72:  12/0000:             :              :            :     
++96:  13/0000:             :              :            :     
++120: 14/0000:             :              :            :     
+REMARKS:
+Tropical Cyclone Odette location was based on animated infrared and past
+microwave imagery around 2100UTC. Confidence in the position is good. There has
+been increasing confidence of an increase in intensity with the main convective
+mass now located over the low level centre, and with banding also evident in
+microwave imagery.
+
+Dvorak analysis gives a DT 3.0 from both a curved band and shear pattern. MET is
+3.5 adjusted to a PAT of 3.0, FT and CI are also 3.0. CIMSS ADT CI is 3.2 and
+NOAA ADT has a CI of 3.3. SATCON was 54 knots [1-minute] at 1812UTC. Final
+intensity set to 45 knots [10-minute].
+
+Steering of Tropical Cyclone Odette has been to the east-northeast overnight and
+early this morning. This is being significantly impacted by interaction with
+Tropical Cyclone Seroja. There is good model consensus that steering over the
+remainder of Friday will be to the east and southeast, prior to turning south to
+south-southwest during Saturday.
+
+Shear remains moderate to high with good poleward outflow and warm sea surface
+temperatures [29-30C]. As TC Odette and TC Seroja continue to interact, Odette
+should begin weakening during Saturday as Seroja dominates. An impact to the far
+northwest corner of WA coast around Exmouth is possible on Saturday with a short
+period of strong to gale force winds and rain even though the system should no
+longer be a TC.
+
+
+Copyright Commonwealth of Australia
+==
+The next bulletin for this system will be issued by: 09/0730 UTC.

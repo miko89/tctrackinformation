@@ -1,0 +1,101 @@
+[
+    {
+        "Name": "TC SEROJA",
+        "Time": "2021-04-09T00:00:00Z",
+        "Latitude": "-19.0",
+        "Longitude": "110.0",
+        "Symbol": "4.0",
+        "Category": "1.0",
+        "Pressure": "993.0",
+        "MeanWind": "40.0",
+        "WindGust": "55.0"
+    },
+    {
+        "Name": "TC SEROJA",
+        "Time": "2021-04-09T06:00:00Z",
+        "Latitude": "-19.5",
+        "Longitude": "109.4",
+        "Symbol": "4.0",
+        "Category": "1.0",
+        "Pressure": "992.0",
+        "MeanWind": "40.0",
+        "WindGust": "55.0"
+    },
+    {
+        "Name": "TC SEROJA",
+        "Time": "2021-04-09T12:00:00Z",
+        "Latitude": "-19.8",
+        "Longitude": "108.9",
+        "Symbol": "4.0",
+        "Category": "1.0",
+        "Pressure": "988.0",
+        "MeanWind": "45.0",
+        "WindGust": "65.0"
+    },
+    {
+        "Name": "TC SEROJA",
+        "Time": "2021-04-09T18:00:00Z",
+        "Latitude": "-20.1",
+        "Longitude": "108.4",
+        "Symbol": "4.0",
+        "Category": "2.0",
+        "Pressure": "985.0",
+        "MeanWind": "50.0",
+        "WindGust": "70.0"
+    },
+    {
+        "Name": "TC SEROJA",
+        "Time": "2021-04-10T00:00:00Z",
+        "Latitude": "-20.4",
+        "Longitude": "108.1",
+        "Symbol": "4.0",
+        "Category": "2.0",
+        "Pressure": "980.0",
+        "MeanWind": "55.0",
+        "WindGust": "75.0"
+    },
+    {
+        "Name": "TC SEROJA",
+        "Time": "2021-04-10T12:00:00Z",
+        "Latitude": "-21.3",
+        "Longitude": "108.5",
+        "Symbol": "4.0",
+        "Category": "3.0",
+        "Pressure": "972.0",
+        "MeanWind": "65.0",
+        "WindGust": "90.0"
+    },
+    {
+        "Name": "TC SEROJA",
+        "Time": "2021-04-11T00:00:00Z",
+        "Latitude": "-23.4",
+        "Longitude": "109.9",
+        "Symbol": "4.0",
+        "Category": "3.0",
+        "Pressure": "974.0",
+        "MeanWind": "65.0",
+        "WindGust": "90.0"
+    },
+    {
+        "Name": "TC SEROJA",
+        "Time": "2021-04-11T12:00:00Z",
+        "Latitude": "-26.3",
+        "Longitude": "112.6",
+        "Symbol": "4.0",
+        "Category": "2.0",
+        "Pressure": "981.0",
+        "MeanWind": "55.0",
+        "WindGust": "75.0"
+    },
+    {
+        "Name": "TC SEROJA",
+        "Time": "2021-04-12T00:00:00Z",
+        "Latitude": "-29.9",
+        "Longitude": "117.3",
+        "Symbol": "4.0",
+        "Category": "1.0",
+        "Pressure": "990.0",
+        "MeanWind": "45.0",
+        "WindGust": "65.0"
+    }
+]

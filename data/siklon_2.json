@@ -1,0 +1,15 @@
+
+[
+    {
+        "Name": "TC ODETTE",
+        "Time": "2021-04-09T00:00:00Z",
+        "Latitude": "-14.2",
+        "Longitude": "107.7",
+        "Symbol": "4.0",
+        "Category": "1.0",
+        "Pressure": "990.0",
+        "MeanWind": "45.0",
+        "WindGust": "65.0"
+    }
+
+]

@@ -1,0 +1,81 @@
+[
+    
+    {
+        "Name": "TC ODETTE",
+        "Time": "2021-04-09T00:00:00Z",
+        "Latitude": "-14.2",
+        "Longitude": "107.7",
+        "Symbol": "4.0",
+        "Category": "1.0",
+        "Pressure": "990.0",
+        "MeanWind": "45.0",
+        "WindGust": "65.0"
+    },
+
+    {
+        "Name": "TC ODETTE",
+        "Time": "2021-04-09T06:00:00Z",
+        "Latitude": "-14.7",
+        "Longitude": "109.2",
+        "Symbol": "4.0",
+        "Category": "1.0",
+        "Pressure": "988.0",
+        "MeanWind": "45.0",
+        "WindGust": "65.0"
+    },
+    {
+        "Name": "TC ODETTE",
+        "Time": "2021-04-09T12:00:00Z",
+        "Latitude": "-15.7",
+        "Longitude": "110.7",
+        "Symbol": "4.0",
+        "Category": "1.0",
+        "Pressure": "989.0",
+        "MeanWind": "45.0",
+        "WindGust": "65.0"
+    },
+    {
+        "Name": "TC ODETTE",
+        "Time": "2021-04-09T18:00:00Z",
+        "Latitude": "-17.1",
+        "Longitude": "111.9",
+        "Symbol": "4.0",
+        "Category": "1.0",
+        "Pressure": "989.0",
+        "MeanWind": "45.0",
+        "WindGust": "65.0"
+    },
+    {
+        "Name": "TC ODETTE",
+        "Time": "2021-04-10T00:00:00Z",
+        "Latitude": "-18.7",
+        "Longitude": "112.4",
+        "Symbol": "4.0",
+        "Category": "1.0",
+        "Pressure": "991.0",
+        "MeanWind": "40.0",
+        "WindGust": "55.0"
+    },
+    {
+        "Name": "TC ODETTE",
+        "Time": "2021-04-10T12:00:00Z",
+        "Latitude": "-22.3",
+        "Longitude": "110.0",
+        "Symbol": "4.0",
+        "Category": "1.0",
+        "Pressure": "990.0",
+        "MeanWind": "40.0",
+        "WindGust": "55.0"
+    },
+    {
+        "Name": "TC ODETTE",
+        "Time": "2021-04-11T00:00:00Z",
+        "Latitude": "-25.1",
+        "Longitude": "109.9",
+        "Symbol": "4.0",
+        "Category": "0.0",
+        "Pressure": "991.0",
+        "MeanWind": "35.0",
+        "WindGust": "45.0"
+    }
+]

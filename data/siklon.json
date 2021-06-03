@@ -1,0 +1,16 @@
+
+[
+    {
+        "Name": "TC SEROJA",
+        "Time": "2021-04-04T18:00:00Z",
+        "Latitude": "-10.0",
+        "Longitude": "122.7",
+        "Symbol": "4.0",
+        "Category": "1.0",
+        "Pressure": "994.0",
+        "MeanWind": "35.0",
+        "WindGust": "50.0"
+    }
+
+
+]
