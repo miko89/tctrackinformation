@@ -65,13 +65,13 @@
             /* border-bottom: solid 10px;  */
             padding: 1px 0;
             width: 100%;
-            height: 80px;
+            height: 90px;
             position: absolute;
             z-index: 1500;
         }
 
         .body-content {
-            height: 1380px;
+            height: 100%px;
             width: 100%;
 
             background: rgb(14, 14, 14);
@@ -102,12 +102,12 @@
         }
 
         .footer {
-            background: rgb(148, 3, 64);
+            background: rgb(139, 107, 0);
             height: 50px;
             width: 100%;
             position: relative;
             margin-left: 5px;
-            margin-right: 5px;
+            /* margin-right: auto; */
 
         }
 
@@ -231,7 +231,7 @@
             width: 100%;
             height: 7px;
             border-radius: 5px;
-            background: #b6cbd3;
+            background: rgb(148, 3, 64);
             outline: none;
             opacity: 100;
             -webkit-transition: .2s;
@@ -275,10 +275,10 @@
         }
 
         .slider::-moz-range-thumb {
-            width: 25px;
-            height: 25px;
-            border-radius: 50%;
-            background: rgb(7, 93, 231);
+            width: 10px;
+            height: 30px;
+            border-radius: 20%;
+            background: rgb(231, 179, 7);
             cursor: pointer;
         }
 
@@ -386,7 +386,7 @@
         </a> -->
 
         <nav class="navbar navbar-dark " style="background-color: #161616">
-            <img src="img/logo_siklon.png" alt="" width="120" height="70" class="imgheader">
+            <img src="img/header_logosiklon.png" alt="" width="260" height="70" class="imgheader">
             
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -447,12 +447,13 @@
             <!-- <img id='garis_slider' src='img/GARIS_SLIDER5.png' class="imageslider" /> -->
 
             <div class="slidecontainer">
+                <h6 class="text-keterangan" style="color: cornsilk;"><b>Citra Satelit 6 jam</b> </h6>
+            <br>
                 <!-- <input type="range" min="0" max="7" value="1" class="slider" id="myRange">
                     <p class="text-keterangan"> Prakiraan H+ : <span id="demo"> </span></p> -->
-                <br>
                 <input onchange='setImage(this)' type="range" min="0" max="7" value="0" step="1" id="myRange"
                     class="slider">
-                <br>
+                    
                 <br>
                 <!-- <p class="text-slider"> Citra Satelit : <span id="demo"> </span> <b> | Tanggal : 9 April 2021</b></p> -->
             </div>
@@ -465,16 +466,16 @@
         </div>
         <!-- <hr class="garis_bawah"> -->
         <img id='img_rain' src='img/satelit/hasilsat_20210415_00.png' height="0" width="0" class="imagefdrs" />
-        <h4 class="text-keterangan" style="color: cornsilk;"><b>GRAFIK SIKLON TROPIS DI WILAYAH BBU & BBS</b> </h4>
+       
         <br>
         <div id="chartContainer_ch"
             style="height: 300px; width:auto ; position:relative; margin-right:0; margin-left:0;"></div>
         
-
+<br>
 
         <!-- <div class="keterangan"> -->
 
-        <br>
+       
         <!-- <h4 class="text-keterangan"><b>GRAFIK SIKLON TROPIS DI WILAYAH BBU & BBS</b></h4> -->
         <!-- <p class="text-keterangan">Penjelasan singkat tentang warna pada tingkatan disetiap index FDRS
                     (FFMC, DMC, DC, FWI, BUI, ISI)</p> -->
@@ -487,7 +488,7 @@
                     <button onclick="myFunction()" class="button"><a class="KET_BUI">BUI</a></button>
                     <button onclick="myFunction()" class="button"><a class="KET_ISI">ISI</a></button>
                 </div> -->
-        <br>
+       
 
         <!-- <img id="change-imageKET" src="img/KET_FFMC.png" alt="FFMC_image" height="450" width="930"
                     class="center" /> -->
@@ -496,7 +497,7 @@
            
              -->
 
-        <br>
+       
         <!-- <div id="chartContainer_suhu" style="height: 300px; width: 100%;"></div>
             <br>
             <div id="chartContainer_cuaca" style="height: 300px; width: 100%; position: relative;"></div>
@@ -1430,7 +1431,7 @@
 
                     data: [{
                         type: "column",
-                        color: "#45B39D",
+                        color: "#FFB6C1",
                         dataPoints: dataPoints_1,
                         xValueFormatString: "YYYY-MM-DD",
                         yValueFormatString: "###",
