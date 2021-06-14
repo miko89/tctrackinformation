@@ -465,7 +465,7 @@
 
         </div>
         <!-- <hr class="garis_bawah"> -->
-        <img id='img_rain' src='img/satelit/hasilsat_20210415_00.png' height="0" width="0" class="imagefdrs" />
+        <img id='img_satelit' src='img/satelit/hasilsat_20210415_00.png' height="0" width="0" class="imagefdrs" />
        
         <br>
         <div id="chartContainer_ch"
@@ -529,7 +529,7 @@
             // document.getElementById('Tanggal').innerHTML=thisDay + ', ' + day + ' ' + months[month] + ' ' + year;
             // document.getElementById('Tanggal').innerHTML= day + ' ' + months[month] + ' ' + year;
 
-            var imgffmc = document.getElementById('img_rain');
+            var imgffmc = document.getElementById('img_satelit');
             var imgfwi = document.getElementById('img_fwi');
             var slider = document.getElementById("myRange");
             var output = document.getElementById("demo");
@@ -1281,8 +1281,8 @@
                 new L.LatLng(28.0, 150)
             )
 
-            var imageUrl_rain = document.getElementById("img_rain")
-            var imageBounds_rain = new L.LatLngBounds(
+            var imageUrl_satelit = document.getElementById("img_satelit")
+            var imageBounds_satelit = new L.LatLngBounds(
                 new L.LatLng(-32.2, 88.8),
                 new L.LatLng(32.0, 150.0)
             )
@@ -1299,7 +1299,7 @@
             var LayerFDRS_fwi = L.imageOverlay(imageUrl_fwi, imageBounds_fwi, { zindex: 900 })//.addTo(map);
             var LayerFDRS_bui = L.imageOverlay(imageUrl_bui, imageBounds_bui, { zindex: 900 })//.addTo(map);
             var LayerFDRS_isi = L.imageOverlay(imageUrl_isi, imageBounds_isi, { zindex: 900 })//.addTo(map);
-            var LayerFDRS_rain = L.imageOverlay(imageUrl_rain, imageBounds_rain, { zindex: 900 })//.addTo(map);
+            var LayerSatelit = L.imageOverlay(imageUrl_satelit, imageBounds_satelit, { zindex: 900 })//.addTo(map);
 
 
 
@@ -1325,7 +1325,7 @@
                 // "FWI": LayerFDRS_fwi,
                 // "BUI": LayerFDRS_bui,
                 // "ISI": LayerFDRS_isi,
-                "SATELIT CUACA": LayerFDRS_rain,
+                "SATELIT CUACA": LayerSatelit,
                 "Nama wilayah": Stamen_TerrainLabels,
                 "Wilayah Terdampak": geojson,
                 "Siklon Tropis": siklon,
