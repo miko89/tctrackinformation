@@ -12,8 +12,8 @@ import pandas as pd
 # df.to_csv("F:/fdrs_bmkg/data/hotspot_20200727.csv", index=False)
 # print(df.head)
 
-file = 'F:/siklon_tropis/data/20210409T000000Z_SURIGAE.csv'
-json_file = 'F:/siklon_tropis/data/siklonbbu_1.json'
+file = 'F:/tctrackinformation/data/20220630T120000Z_CHABA.csv'
+json_file = 'F:/tctrackinformation/data/siklonbbu_1.json'
 fieldnames = ("Name","Time","Latitude","Longitude","Symbol","Category","Pressure","MeanWind","WindGust")
 
         
